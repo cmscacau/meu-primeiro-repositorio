@@ -15,6 +15,6 @@ while sair == 1:
         notas = input('digite sua nota')
         soma_notas += notas
         
-    
+  # comentando meu codigo a função acima verifica se uma senha é forte ou fraca.  
     
     
